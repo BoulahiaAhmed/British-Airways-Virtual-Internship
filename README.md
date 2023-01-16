@@ -1,7 +1,5 @@
 # British-Airways-Virtual-Internship
-My work during a virtual internship with British Airways.
-
-I participated in a virtual internship with British Airways, which consisted of two tasks. 
+My work during a virtual internship with British Airways, and it is consisted of two tasks. 
 
 # First Task
 The first task was focused on data analysis and visualization, where I reviewed and visualized data to gain insights.
