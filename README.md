@@ -7,7 +7,7 @@ The first task was focused on data analysis and visualization, where I reviewed 
 ![task 1](https://user-images.githubusercontent.com/45523231/212751806-40ab53aa-15b8-4871-a711-286731903ac6.png)
 
 # Second Task
-The second task was about feature engineering, where I transformed and selected features to improve the model performance, and building predictive models to make predictions based on the data.
+The second task was about feature engineering, where I transformed and selected features to improve the model performance, Then I tried a set of predictive models, a comparative study was made and the best model was selected.
 
 ![task 2](https://user-images.githubusercontent.com/45523231/212751824-44d0f11a-3bbf-4301-bcdc-7856f4202b35.png)
 
