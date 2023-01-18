@@ -11,4 +11,7 @@ The second task was about feature engineering, where I transformed and selected 
 
 ![task 2](https://user-images.githubusercontent.com/45523231/212751824-44d0f11a-3bbf-4301-bcdc-7856f4202b35.png)
 
-![British-Airways-Logo](https://user-images.githubusercontent.com/45523231/212746605-29d22adc-28eb-454b-8c74-5a1882aae002.png)
+Certificate of Completion: 
+
+![certif](https://user-images.githubusercontent.com/45523231/213250466-e4095ce4-2a65-4368-bf12-af361ea114c4.png)
+
